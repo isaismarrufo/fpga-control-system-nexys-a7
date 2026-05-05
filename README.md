@@ -4,6 +4,12 @@ Real-time FPGA system implementing an interactive "Simon Says"-style game using 
 
 ---
 
+## Demo
+
+[Watch Demo Video](https://drive.google.com/file/d/1xBFlEIcpvL0fKEIhOpHdc05tBMvMyt2a/view?usp=sharing)
+
+---
+
 ## Overview
 
 This project implements a fully synchronous RTL design in Verilog that generates and validates user input sequences in real time. The system integrates input conditioning, control logic, display output, and VGA rendering under strict hardware timing constraints.
